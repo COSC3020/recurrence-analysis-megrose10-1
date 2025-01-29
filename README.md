@@ -6,6 +6,7 @@ assume that each operation takes unit time. You do not need to provide a formal
 proof, but you should show your work: at a minimum, show the recurrence relation
 you derive for the runtime of the code, and then how you solved the recurrence
 relation.
+
 Citations: To get more aquinted with this material I watched the following video https://www.bing.com/videos/search?view=detail&q=recurrence+analysis+explained&&mid=CFA473EE1A555E67A339CFA473EE1A555E67A339&mmscn=mtsc&&FORM=VRDGAR . I also learned more on recurrence analysis through changes being requested on divide and conquer, and applied that knowledge. I also reviewed the slides on sorting.
 
 I submitted this work Fall 2024.
